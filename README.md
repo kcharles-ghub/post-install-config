@@ -32,7 +32,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - **Navigate to:** `Admin Panel -> Agents -> Roles`
 - **Create Role:** `Supreme Admin`
-<p align="center"><img src="https://i.imgur.com/dMCodFe.png"/></p> 
+<p align="center"><img src="https://i.imgur.com/RRK3HRo.png"/></p> 
 <p align="center"><img src="https://i.imgur.com/CjaY7Q4.png"/></p>
 
 - **Click:** `Permissions`
@@ -48,8 +48,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 - **Navigate to:** `Admin Panel -> Agents -> Departments`
 - **Create Department:** `System Administrators`
  <p align="center"><img src="https://i.imgur.com/fqROXPN.png"/></p>
- <p align="center"><img src="https://i.imgur.com/o1pQJcP.png"/></p>
- <p align="center"><img src="https://i.imgur.com/rxSbBLt.png"/></p>
+ <p align="center"><img src="https://i.imgur.com/4W0XKFX.png"/></p>
+ <p align="center"><img src="https://i.imgur.com/ntf5iUc.png"/></p>
 
 ### 3. Configure Teams
 - **Navigate to:** `Admin Panel -> Agents -> Teams`
@@ -62,7 +62,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 ### 4. Allow Anyone to Create Tickets
 - **Navigate to:** `Admin Panel -> Settings -> User Settings`
 - **Set Registration Required:** `Uncheck Require registration and login to create tickets`
-<p align="center"><img src="https://i.imgur.com/KVbj6Ha.png"/></p>
+<p align="center"><img src="https://i.imgur.com/zeu46bV.png"/></p>
 
 ### 5. Configure Agents (Workers)
 - **Navigate to:** `Admin Panel -> Agents -> Add New`
@@ -75,24 +75,24 @@ This tutorial outlines the post-install configuration of the open-source help de
   - Password: *`Your osTicket Login Password`*
   - Uncheck: `Require password change at next login`
   - Click: `Set`
-  <p align="center"><img src="https://i.imgur.com/lTLWfy4.png"/></p>
-  <p align="center"><img src="https://i.imgur.com/iFqYHQf.png"/></p>
- 
+  <p align="center"><img src="https://i.imgur.com/bxxcYOZ.png"/></p>
+  <p align="center"><img src="https://i.imgur.com/nTmRUsg.png"/></p>
+  
 - **Go to:** `Access Tab`
   - Primary Department
   - Department: `System Administrators`
   - Role: `Supreme Admin`   
-    <p align="center"><img src="https://i.imgur.com/0BfaM0a.png"/></p>
+  <p align="center"><img src="https://i.imgur.com/BSBeFem.png"/></p>
  
 -  **Go to:** `Permissions Tab`
    - Check ALL boxes
-  <p align="center"><img src="https://i.imgur.com/eg6j3uH.png"/></p>
+  <p align="center"><img src="https://i.imgur.com/7gExlY7.png"/></p>
 
 -  **Go to:** `Teams Tab`
    - Assigned Teams: `Level II Support`
    - Click: `Create`
-<p align="center"><img src="https://i.imgur.com/QRFU7Bc.png"/></p>
-
+<p align="center"><img src="https://i.imgur.com/qU4kw94.png"/></p>
+<p align="center"><img src="https://i.imgur.com/63h9FZd.png"/></p>
 
 ### 6. Configure Users (Customers)
 - **Navigate to:** `Agent Panel -> Users -> Add New`
@@ -101,7 +101,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Full Name: `Karen Karen`
 - Click: `Add User
   <p align="center"><img src="https://i.imgur.com/7vN2ud9.png"/></p>
-  <p align="center"><img src="https://i.imgur.com/2JUxLrt.png"/></p>
+  <p align="center"><img src="https://i.imgur.com/L5Z4FyP.png"/></p>
 
 :memo: **Note:** Repeat the same steps for Ken
 
@@ -113,7 +113,7 @@ This tutorial outlines the post-install configuration of the open-source help de
   - `Sev-B (4 hours, 24/7)`
   - `Sev-C (8 hours, business hours)`
 <p align="center"><img src="https://i.imgur.com/nXCMQsK.png"/></p> 
-<p align="center"><img src="https://i.imgur.com/rR1VM3s.png"/></p>
+<p align="center"><img src="https://i.imgur.com/Zo9TXE7.png"/></p>
 
 ### 8. Configure Help Topics
 - **Navigate to:** `Admin Panel -> Manage -> Help Topics`
@@ -122,7 +122,7 @@ This tutorial outlines the post-install configuration of the open-source help de
   - `Personal Computer Issues`
   - `Equipment Request`
   - `Password Reset`
-  <p align="center"><img src="https://i.imgur.com/ZGr9N3z.png"/></p>
+  <p align="center"><img src="https://i.imgur.com/I3gGrBb.png"/></p>
 
 ### :bulb: **Tips:**
 - Ensure each setup step is correctly saved before moving to the next step.
