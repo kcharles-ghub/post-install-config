@@ -28,7 +28,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ### 1. Configure Roles
 - **Log in:** `Use the credentials you create during prereq & configuration`
-<p align="center"><img src="https://i.imgur.com/BLFaCHZ.png"/></p>
+<p align="center"><img src="https://i.imgur.com/I18FYR6.png"/></p>
 
 - **Navigate to:** `Admin Panel -> Agents -> Roles`
 - **Create Role:** `Supreme Admin`
